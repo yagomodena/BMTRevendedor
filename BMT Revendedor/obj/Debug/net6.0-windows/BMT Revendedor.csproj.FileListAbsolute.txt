@@ -1,0 +1,19 @@
+C:\Users\USER\Desktop\BMTecnologia\BMT Revendedor\BMT Revendedor\bin\Debug\net6.0-windows\BMT Revendedor.exe
+C:\Users\USER\Desktop\BMTecnologia\BMT Revendedor\BMT Revendedor\bin\Debug\net6.0-windows\BMT Revendedor.deps.json
+C:\Users\USER\Desktop\BMTecnologia\BMT Revendedor\BMT Revendedor\bin\Debug\net6.0-windows\BMT Revendedor.runtimeconfig.json
+C:\Users\USER\Desktop\BMTecnologia\BMT Revendedor\BMT Revendedor\bin\Debug\net6.0-windows\BMT Revendedor.dll
+C:\Users\USER\Desktop\BMTecnologia\BMT Revendedor\BMT Revendedor\bin\Debug\net6.0-windows\BMT Revendedor.pdb
+C:\Users\USER\Desktop\BMTecnologia\BMT Revendedor\BMT Revendedor\obj\Debug\net6.0-windows\BMT Revendedor.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\BMTecnologia\BMT Revendedor\BMT Revendedor\obj\Debug\net6.0-windows\BMT_Revendedor.Properties.Resources.resources
+C:\Users\USER\Desktop\BMTecnologia\BMT Revendedor\BMT Revendedor\obj\Debug\net6.0-windows\BMT Revendedor.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\BMTecnologia\BMT Revendedor\BMT Revendedor\obj\Debug\net6.0-windows\BMT Revendedor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\BMTecnologia\BMT Revendedor\BMT Revendedor\obj\Debug\net6.0-windows\BMT Revendedor.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\BMTecnologia\BMT Revendedor\BMT Revendedor\obj\Debug\net6.0-windows\BMT Revendedor.AssemblyInfo.cs
+C:\Users\USER\Desktop\BMTecnologia\BMT Revendedor\BMT Revendedor\obj\Debug\net6.0-windows\BMT Revendedor.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\BMTecnologia\BMT Revendedor\BMT Revendedor\obj\Debug\net6.0-windows\BMT Revendedor.dll
+C:\Users\USER\Desktop\BMTecnologia\BMT Revendedor\BMT Revendedor\obj\Debug\net6.0-windows\refint\BMT Revendedor.dll
+C:\Users\USER\Desktop\BMTecnologia\BMT Revendedor\BMT Revendedor\obj\Debug\net6.0-windows\BMT Revendedor.pdb
+C:\Users\USER\Desktop\BMTecnologia\BMT Revendedor\BMT Revendedor\obj\Debug\net6.0-windows\BMT Revendedor.genruntimeconfig.cache
+C:\Users\USER\Desktop\BMTecnologia\BMT Revendedor\BMT Revendedor\obj\Debug\net6.0-windows\ref\BMT Revendedor.dll
+C:\Users\USER\Desktop\BMTecnologia\BMT Revendedor\BMT Revendedor\obj\Debug\net6.0-windows\BMT_Revendedor.Principal.frmPrincipal.resources
+C:\Users\USER\Desktop\BMTecnologia\BMT Revendedor\BMT Revendedor\obj\Debug\net6.0-windows\BMT_Revendedor.TelaLogin.resources
